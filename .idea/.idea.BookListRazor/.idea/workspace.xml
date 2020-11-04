@@ -19,12 +19,17 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Pull.Settings">
+    <option name="BRANCH" value="master" />
+  </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/00E4CC82-435B-478C-B083-227A479F9D7B/1D8/ExceptionDispatchInfo.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/00E4CC82-435B-478C-B083-227A479F9D7B/16/cc303388/ExceptionDispatchInfo.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BookListRazor/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -50,6 +55,7 @@
   </component>
   <component name="ProjectId" id="1jjybBFQQNekJwRMuj68ky54aJA" />
   <component name="ProjectLevelVcsManager">
+    <OptionsSetting value="false" id="Update" />
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -119,6 +125,7 @@
       <workItem from="1604366554765" duration="1090000" />
       <workItem from="1604395345946" duration="3550000" />
       <workItem from="1604447217623" duration="2918000" />
+      <workItem from="1604478783630" duration="463000" />
     </task>
     <task id="LOCAL-00001" summary="created EditPage">
       <created>1604450090868</created>
@@ -127,7 +134,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604450090868</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="created EditPage">
+      <created>1604478862125</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1604478862125</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -150,6 +164,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="added files to project" />
     <MESSAGE value="created EditPage" />
     <option name="LAST_COMMIT_MESSAGE" value="created EditPage" />
   </component>
@@ -246,10 +261,14 @@
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state width="1878" height="369" key="GridCell.Tab.4.right/1920.0.1920.1080/0.0.1920.1040@1920.0.1920.1080" timestamp="1604450051371" />
-    <state x="2475" y="243" width="802" height="548" key="Vcs.Push.Dialog.v2" timestamp="1604450135416">
+    <state x="2475" y="243" width="802" height="548" key="Vcs.Push.Dialog.v2" timestamp="1604478897154">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="2475" y="243" width="802" height="548" key="Vcs.Push.Dialog.v2/1920.0.1920.1080/0.0.1920.1040@1920.0.1920.1080" timestamp="1604450135416" />
+    <state x="2475" y="243" width="802" height="548" key="Vcs.Push.Dialog.v2/1920.0.1920.1080/0.0.1920.1040@1920.0.1920.1080" timestamp="1604478897154" />
+    <state x="2688" y="437" width="375" height="160" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604478921232">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2688" y="437" width="375" height="160" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1920.0.1920.1080/0.0.1920.1040@1920.0.1920.1080" timestamp="1604478921232" />
     <state x="2111" y="0" width="1006" height="695" key="dock-window-1" timestamp="1604397280685">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
